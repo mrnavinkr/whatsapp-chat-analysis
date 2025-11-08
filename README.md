@@ -78,7 +78,7 @@ Push your repository to GitHub
 Log in to Streamlit Cloud
  → New App → Select your repo & branch → Set app.py as main file → Deploy
 
-🚀 Live App: https://whatsapp-chat-visualization.streamlit.app/
+🚀 Live App: https://whatsapp-chat-visualization.streamlit.app
 
 🔹 Dependencies:----------------
 
